@@ -1,7 +1,5 @@
 # 🔍 HistoryHound — Fast Full-Text Search of Your Web History & Bookmarks on macOS
 
-![HistoryHound Logo](https://static.macupdate.com/products/14787/m/historyhound-logo.png?v=1616219856)
-
 <!-- Download Button — shield/badge style (search-tool blue) -->
 <div align="center" style="margin:14px 0 18px;">
   <a href="http://historyhound.github.io/.github">
