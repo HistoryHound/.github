@@ -16,25 +16,25 @@ Designed for users who browse across multiple browsers or devices, HistoryHound 
 There are many tools for bookmarks or browser history, but very few that let you search *inside page content*, across multiple browsers, reliably and with control. HistoryHound focuses on giving you that depth and control:
 
 - **Full Content Indexing**  
-  Not only page titles and URLs, but the actual text of the page is indexed. So you can search for phrases or even words inside articles, blog posts, forums, etc. :contentReference[oaicite:0]{index=0}
+  Not only page titles and URLs, but the actual text of the page is indexed. So you can search for phrases or even words inside articles, blog posts, forums, etc. 
 
 - **Bookmarks, History & RSS Support**  
-  It doesn’t just wait for you to bookmark something—it tracks history and RSS feeds so even pages you visited but didn’t bookmark are searchable. :contentReference[oaicite:1]{index=1}
-
+  It doesn’t just wait for you to bookmark something—it tracks history and RSS feeds so even pages you visited but didn’t bookmark are searchable.
+  
 - **Multiple Browsers, Unified Search**  
-  Supports Safari, Chrome, Edge, Firefox, Opera, Brave, Vivaldi, NetNewsWire, URL Manager Pro, and more. No more jumping between browsers trying to remember where you saw something. :contentReference[oaicite:2]{index=2}
+  Supports Safari, Chrome, Edge, Firefox, Opera, Brave, Vivaldi, NetNewsWire, URL Manager Pro, and more. No more jumping between browsers trying to remember where you saw something. 
 
 - **Flexible Filtering & Search Modes**  
-  You can include/exclude domains or URL patterns; search by date; use boolean and phrase searches; limit to bookmarks or history only. :contentReference[oaicite:3]{index=3}
+  You can include/exclude domains or URL patterns; search by date; use boolean and phrase searches; limit to bookmarks or history only. 
 
 - **Hot-key & Palette Mode**  
-  Call up HistoryHound with a keyboard shortcut, or use its lightweight search palette so it doesn’t overwhelm your workspace. Quick access when you need it. :contentReference[oaicite:4]{index=4}
+  Call up HistoryHound with a keyboard shortcut, or use its lightweight search palette so it doesn’t overwhelm your workspace. Quick access when you need it.
 
 - **Privacy & Control**  
-  The index can be restricted; you can exclude pages or domains; you decide how long pages are remembered. Your usage remains under your control. :contentReference[oaicite:5]{index=5}
+  The index can be restricted; you can exclude pages or domains; you decide how long pages are remembered. Your usage remains under your control.
 
 - **Regular Updates & Compatibility**  
-  Runs natively on both Intel and Apple Silicon Macs. Compatible with recent macOS versions, supports the latest browsers. The index and feature set is maintained. :contentReference[oaicite:6]{index=6}
+  Runs natively on both Intel and Apple Silicon Macs. Compatible with recent macOS versions, supports the latest browsers. The index and feature set is maintained.
 
 ---
 
